@@ -25,3 +25,26 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## System Requirements
+
+- Node.js >= 12.x
+- npm >= 6.x
+- Angular CLI >= 10.x
+
+## Installation
+
+1. Clone repository:
+
+   ```sh
+   git clone https://github.com/quoclh94/ng-Atm.git
+   cd ng-Atm
+   npm install
+   ng serve
+
+2. Open your browser and navigate to: http://localhost:4200
+
+3. Login Information
+Below are the accounts that can be used to log in to the application:
+ - User: user
+ - Password: password
